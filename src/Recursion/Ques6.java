@@ -3,7 +3,7 @@ package Recursion;
 import java.util.Scanner;
 
 /**
- * Write a program to print the sum of first N numbers
+ * Write a program to print the sum of first N numbers using parameterised way
  */
 
 public class Ques6 {
