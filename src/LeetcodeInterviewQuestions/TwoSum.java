@@ -5,7 +5,8 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- *  HashTable approach for the two sum !
+ *  HashTable approach for the two sum  From Leet code !
+ *  So that we can ge the good amount of the work done !
  *  Time Complexity O(n)
  *  Space Complexity O(n)
  */
